@@ -1,0 +1,23 @@
+div>ul>li>a{
+    color:white;
+    font-family: "幼圆";
+    font-size: 12px;
+
+}
+div>ul>li>a:hover{
+    color: greenyellow;
+    text-decoration: none;
+}
+div>ul>li>a>h5{
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.container {
+    max-width: 1920px;
+}
+
+.container{
+    padding-left: 0px;
+    padding-right: 0px;
+}
